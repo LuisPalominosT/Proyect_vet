@@ -193,7 +193,7 @@ const Contacto = () => {
             </Card>
           </div>
           <div>
-          <Map h="600px" w="600px"/>
+          <Map h={"600px"} w={"600px"}/>
           </div>
         </div>
       </PageTemplate>

@@ -57,7 +57,7 @@ const Home = () => {
             </p>
           </div>
           <div className="container d-flex justify-content-center mb-5">
-            <Map h="500px" w="1000px"/>
+            <Map h={"500px"} w={"1000px"}/>
           </div>
         </div>
       </PageTemplate>
